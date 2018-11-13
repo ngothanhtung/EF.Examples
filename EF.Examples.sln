@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF.DatabaseFirst.Examples", "EF.DatabaseFirst.Examples\EF.DatabaseFirst.Examples.csproj", "{945953F9-D1B4-483E-8790-32F0B87969CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF.CodeFirst.Examples", "EF.CodeFirst.Examples\EF.CodeFirst.Examples.csproj", "{9A93ED42-8190-45FF-A499-D09CD722C57E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{945953F9-D1B4-483E-8790-32F0B87969CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{945953F9-D1B4-483E-8790-32F0B87969CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{945953F9-D1B4-483E-8790-32F0B87969CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{945953F9-D1B4-483E-8790-32F0B87969CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A93ED42-8190-45FF-A499-D09CD722C57E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A93ED42-8190-45FF-A499-D09CD722C57E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A93ED42-8190-45FF-A499-D09CD722C57E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A93ED42-8190-45FF-A499-D09CD722C57E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E85FB3FB-E302-4655-BC39-AF1AC187B1C2}
+	EndGlobalSection
+EndGlobal
